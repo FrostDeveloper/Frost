@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=frost
+Comment=frost P2P Cryptocurrency
+Comment[fr]=frost, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=frost, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/frost-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/frost;
+Categories=Office;

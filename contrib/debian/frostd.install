@@ -1,0 +1,2 @@
+debian/bin/frostd usr/bin
+src/frostd usr/lib/frost
